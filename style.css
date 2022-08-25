@@ -648,40 +648,15 @@ b {
   }
   .bottom-footer {
     margin: 6rem;
+    color: #1c2a2f;
+  }
+  .bottom-footer span {
+    color: #1c2a2f;
   }
 }
 
 @media screen and (min-width: 47em) {
-  /* .nav-toggle-label {
-    display: none;
-  }
-  header {
-    position: relative;
-    display: grid;
-    grid-template-columns: 1fr auto minmax(600px, 3fr) 1fr;
-  }
-  .logo {
-    grid-column: 2 / 1;
-  }
-  nav {
-    all: unset;
-    grid-column: 3 / 4;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-  }
-
-  nav ul {
-    display: flex;
-  }
-  nav li {
-    margin-left: 3em;
-    margin-bottom: 0;
-  }
-  nav a {
-    opacity: 1;
-  } */
-  */ .section-one {
+  .section-one {
     padding-top: 0;
   }
   .section-three-components {
